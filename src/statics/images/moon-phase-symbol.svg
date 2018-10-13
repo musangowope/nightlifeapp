@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2304 -3 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #394678;
+      }
+
+      .cls-2 {
+        fill: #2c365e;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #c8c8c8;
+      }
+    </style>
+  </defs>
+  <g id="moon_1_" data-name="moon (1)" transform="translate(-2304 -3)">
+    <g id="Group_180" data-name="Group 180">
+      <circle id="Ellipse_34" data-name="Ellipse 34" class="cls-1" cx="150" cy="150" r="150"/>
+    </g>
+    <path id="Path_470" data-name="Path 470" class="cls-2" d="M297.921,320.815c-34.433,27.349-87.714,19.637-130.317,21.618,0,0,1.01,4.041,0,5.051-7.071,7.07-17.171,6.06-26.263,7.07a36.211,36.211,0,0,0-3.687.192L215.5,432.593a149.948,149.948,0,0,0,120.688-73.51Z" transform="translate(-56.997 -132.837)"/>
+    <path id="Path_471" data-name="Path 471" class="cls-2" d="M456.216,233.186l-55.129-55.129-23.072,24.055L448.406,272.5A149.424,149.424,0,0,0,456.216,233.186Z" transform="translate(-156.522 -73.727)"/>
+    <g id="Group_181" data-name="Group 181" transform="translate(216.667 100)">
+      <circle id="Ellipse_35" data-name="Ellipse 35" class="cls-3" cx="16.666" cy="16.666" r="16.666"/>
+    </g>
+    <g id="Group_182" data-name="Group 182" transform="translate(150 50)">
+      <circle id="Ellipse_36" data-name="Ellipse 36" class="cls-3" cx="8.333" cy="8.333" r="8.333"/>
+    </g>
+    <g id="Group_183" data-name="Group 183" transform="translate(183.333 150)">
+      <circle id="Ellipse_37" data-name="Ellipse 37" class="cls-3" cx="8.333" cy="8.333" r="8.333"/>
+    </g>
+    <g id="Group_184" data-name="Group 184" transform="translate(50 57.942)">
+      <path id="Path_472" data-name="Path 472" class="cls-3" d="M211.509,234.523a97.584,97.584,0,0,1-69.753-69.754c-6.13-23.591-3.854-46.331,4.465-65.883a100.022,100.022,0,0,0-60.85,94.84c1.433,52.788,44.394,95.749,97.182,97.181a100.019,100.019,0,0,0,94.839-60.85C257.84,238.376,235.1,240.652,211.509,234.523Z" transform="translate(-85.333 -98.887)"/>
+    </g>
+    <g id="Group_185" data-name="Group 185" transform="translate(79.204 167.993)">
+      <path id="Path_473" data-name="Path 473" class="cls-4" d="M232.146,312.293a97.323,97.323,0,0,1-44.5-25.585l-52.467,52.467a99.865,99.865,0,0,0,162.854-31.348C278.478,316.145,255.739,318.422,232.146,312.293Z" transform="translate(-135.175 -286.708)"/>
+    </g>
+  </g>
+</svg>
