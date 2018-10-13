@@ -11,10 +11,10 @@
   },
   "dependencies": {
     "EventEmitter": "^1.0.0",
-    "auth0-js": "^8.12.3",
+    "auth0-js": "9.3.0",
     "axios": "^0.16.2",
     "babel-runtime": "^6.25.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "4.1.2",
     "dropbox": "^2.5.13",
     "firebase": "^4.13.1",
     "firebaseui": "^2.7.0",
